@@ -1,0 +1,10 @@
+build
+cache
+data
+res
+dist
+*.pyc
+*.egg-info
+.idea
+.DS_Store
+azkb_jobs.zip

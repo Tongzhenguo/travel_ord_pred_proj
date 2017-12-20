@@ -1,0 +1,4 @@
+params = {
+    'proj_path':'../'
+
+}
